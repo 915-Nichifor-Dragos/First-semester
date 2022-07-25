@@ -1,1 +1,1 @@
-- here are my Fundamentals of Programming projects
+- Here are my Fundamentals of Programming projects
